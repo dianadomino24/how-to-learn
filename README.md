@@ -1,20 +1,42 @@
-# Учебный проект №1 "Научиться учиться"
+# :mortar_board: A landing about learning methods and tips
 
-В проекте реализован одностраничный сайт с информацией о техниках и принципах
-обучения.
-Использовались css и html.
+A study project at Practicum by Yandex to try:
 
-[Ссылка на сайт в GitPages](https://dianadomino24.github.io/how-to-learn/)
+- CSS, HTML,
+- CSS-animation (@keyframes),
+- Flexbox,
+- BEM.
 
-Данный макет включает в себя наиболее часто встречающиеся элементы лендингов:
-баннер, таблицу, ссылки, видео в iframes, подвал.
+---
 
-Освоена flex-верстка.
+## :mag_right: Preview
 
-Создана Nested файловая структура по БЭМ.
+![Preview](./Screenshot_1.jpg)
+![Preview](./Screenshot_2.jpg)
+![Preview](./Screenshot_3.jpg)
+---
 
-Реализована анимация с помощью @keyframes в css.
+## :link: Link to test
 
-В перспективе необходимо доработать сайт, сделав его более адаптивным к различным
-расширениям и реализовать его мобильную версию.
+[GitPages](https://dianadomino24.github.io/how-to-learn/)
+
+
+---
+
+## :rocket: Technologies
+
+-   semantic **HTML5**, styles - **CSS3** including Flexbox,
+-   **BEM**,
+-   CSS-animation(@keyframes),
+-   YouTube Api,
+-   **Figma**, Pixel Perfect.
+
+---
+
+**Practicum by Yandex** - https://practicum.yandex.com/
+
+---
+
+## :sparkles: Thanks for watching!
+
 
